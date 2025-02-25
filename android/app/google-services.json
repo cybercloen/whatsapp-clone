@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825228249566",
+    "project_id": "simchat-c5730",
+    "storage_bucket": "simchat-c5730.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825228249566:android:e806ee86b1c3eb83e5754f",
+        "android_client_info": {
+          "package_name": "com.example.schat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG8EW6squ4y41WUU8JA5PXfzUZS8M-LS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
