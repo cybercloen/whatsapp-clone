@@ -1,0 +1,2 @@
+C:/Users/karma/Desktop/AppDev/schat/android/app/.cxx/Debug/4j6j361k/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/karma/Desktop/AppDev/schat/android/app/.cxx/Debug/4j6j361k/armeabi-v7a/CMakeFiles/rebuild_cache.dir
